@@ -1,4 +1,4 @@
-  - # Among Us - UU
+# Among Us - UU
 payload:
   - IP-CIDR,3.114.197.0/24,no-resolve
   - IP-CIDR,9.255.255.0/24,no-resolve
