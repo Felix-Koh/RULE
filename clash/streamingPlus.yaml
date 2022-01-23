@@ -7,3 +7,4 @@ payload:
   - DOMAIN-SUFFIX,pluto.tv
   #afreecatv
   - DOMAIN-SUFFIX,afreecatv.com
+  - DOMAIN-KEYWORD,afreecatv
