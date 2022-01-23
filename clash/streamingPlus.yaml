@@ -5,6 +5,9 @@ payload:
 #plutotv
   - DOMAIN-KEYWORD,pluto
   - DOMAIN-SUFFIX,pluto.tv
-  #afreecatv
+#afreecatv
   - DOMAIN-SUFFIX,afreecatv.com
   - DOMAIN-KEYWORD,afreecatv
+#aaaaa
+  - DOMAIN-SUFFIX,jable.tv
+  - DOMAIN-SUFFIX,netflav.com
