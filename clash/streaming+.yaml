@@ -1,0 +1,6 @@
+# NAME: Steam
+# AUTHOR: Felix
+# UPDATED: 2022-01-13 13:52:30
+payload:
+  - DOMAIN-KEYWORD,pluto
+  - DOMAIN-SUFFIX,pluto.tv
