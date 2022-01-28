@@ -1,8 +1,7 @@
 # NAME: Steam
 # AUTHOR: Felix
-# UPDATED: 2022-01-13 13:52:30
+# UPDATED: 2022-01-28
 payload:
-  - DOMAIN-KEYWORD,emby
   - DOMAIN-KEYWORD,odysseyplus
   - DOMAIN-KEYWORD,emby.wtf
   - DOMAIN-KEYWORD,jmaooo.com
@@ -46,4 +45,5 @@ payload:
   - DOMAIN-SUFFIX,us.pornemby.club
   - DOMAIN-SUFFIX,play.charontv.com
   - DOMAIN-SUFFIX,em.ssky.me
+  - DOMAIN-SUFFIX,flowercloud.yt
   - IP-CIDR,103.97.200.124/32
