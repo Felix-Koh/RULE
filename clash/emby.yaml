@@ -1,6 +1,6 @@
-# NAME: Steam
+# NAME: Emby
 # AUTHOR: Felix
-# UPDATED: 2022-01-28
+# UPDATED: 2022-02-01
 payload:
   - DOMAIN-KEYWORD,odysseyplus
   - DOMAIN-KEYWORD,emby.wtf
