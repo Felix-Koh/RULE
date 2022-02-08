@@ -1,6 +1,7 @@
 # NAME: Emby
 # AUTHOR: Felix
-# UPDATED: 2022-02-01
+# UPDATED: 2022-02-09
+DOMAIN-SUFFIX,embyclub.nl
 DOMAIN-SUFFIX,emby.flowercloud.yt
 DOMAIN-SUFFIX,emby.hm773.xyz
 DOMAIN-KEYWORD,odysseyplus
