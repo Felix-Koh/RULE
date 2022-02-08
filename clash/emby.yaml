@@ -47,6 +47,6 @@ payload:
   - DOMAIN-SUFFIX,play.charontv.com
   - DOMAIN-SUFFIX,em.ssky.me
   - DOMAIN-SUFFIX,flowercloud.yt
-  - DOMAIN-SUFFIX, embyclub.nl
+  - DOMAIN-SUFFIX,embyclub.nl
   - IP-CIDR,103.97.200.124/32
   - IP-CIDR,178.173.230.58/32
