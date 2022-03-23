@@ -1,0 +1,9 @@
+# NAME: correct
+# AUTHOR: Felix
+# UPDATED: 2022-03-23 11:50
+payload:
+#ip
+  - DOMAIN-SUFFIX,ipify.org
+  - DOMAIN-SUFFIX,ip.sb
+#steam社区
+  - DOMAIN-SUFFIX,steamcommunity.com
