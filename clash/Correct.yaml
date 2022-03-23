@@ -7,3 +7,5 @@ payload:
   - DOMAIN-SUFFIX,ip.sb
 #steam社区
   - DOMAIN-SUFFIX,steamcommunity.com
+#GoogleTranslate
+  - DOMAIN,translate.googleapis.com
