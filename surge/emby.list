@@ -48,6 +48,6 @@ DOMAIN-SUFFIX,us.pornemby.club
 DOMAIN-SUFFIX,charontv.com
 DOMAIN-SUFFIX,em.ssky.me
 IP-CIDR,103.97.200.124/32,no-resolve
-IP-CIDR,178.173.230.58/32,no-resolve
+IP-CIDR,178.173.230.8/32,no-resolve
 IP-CIDR,211.20.56.42/32,no-resolve
 DOMAIN-SUFFIX,404.sb
