@@ -9,3 +9,7 @@ payload:
   - DOMAIN-SUFFIX,steamcommunity.com
 #GoogleTranslate
   - DOMAIN,translate.googleapis.com
+#wildrift
+  - DOMAIN-SUFFIX,pvp.net
+  - DOMAIN-SUFFIX,riotcdn.net
+  - DOMAIN-SUFFIX,riotgames.com
