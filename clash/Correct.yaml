@@ -13,3 +13,5 @@ payload:
   - DOMAIN-SUFFIX,pvp.net
   - DOMAIN-SUFFIX,riotcdn.net
   - DOMAIN-SUFFIX,riotgames.com
+#Google  
+  - DOMAIN-SUFFIX,dl.google.com
