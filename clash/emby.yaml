@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Felix
-# UPDATED: 2022-04-25
+# UPDATED: 2023-02-04
 payload:
   - DOMAIN-KEYWORD,odysseyplus
   - DOMAIN-KEYWORD,emby.wtf
