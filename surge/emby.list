@@ -53,5 +53,5 @@ IP-CIDR,211.20.56.42/32,no-resolve
 DOMAIN-SUFFIX,404.sb
 DOMAIN-SUFFIX,poloemby.xyz
 DOMAIN-SUFFIX,misakaf.org
-DOMAIN,direct.nebula-emby.com
+DOMAIN-SUFFIX,nebula-emby.com
 DOMAIN-SUFFIX,emby.222921.xyz
