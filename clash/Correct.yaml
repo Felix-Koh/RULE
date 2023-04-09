@@ -2,7 +2,7 @@
 # AUTHOR: Felix
 # UPDATED: 2022-03-23 11:50
 payload:
-#ip
+#ip测试
   - DOMAIN-SUFFIX,ipify.org
   - DOMAIN-SUFFIX,ip.sb
 #steam社区
@@ -15,3 +15,7 @@ payload:
   - DOMAIN-SUFFIX,riotgames.com
 #Google  
   - DOMAIN-SUFFIX,dl.google.com
+#other
+  - DOMAIN,web.nebula-emby.com
+  - DOMAIN-SUFFIX,rfi.fr
+  - DOMAIN-SUFFIX,dw.com
