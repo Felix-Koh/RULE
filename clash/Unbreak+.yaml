@@ -17,6 +17,7 @@ payload:
   - IP-CIDR,1.12.12.12/32,no-resolve
   - IP-CIDR,119.29.29.29/32,no-resolve
   #Steam-CDN
+  - DOMAIN-SUFFIX,dl.steam.clngaa.com
   - DOMAIN-SUFFIX,pphimalayanrt.com
   - DOMAIN-SUFFIX,st.dl.eccdnx.com
   - DOMAIN,api.steampowered.com
