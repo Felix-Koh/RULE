@@ -5,6 +5,7 @@ payload:
 
 #MediaCN
   - DOMAIN-SUFFIX,gitv.tv
+  - DOMAIN-SUFFIX,gitv.cn
 #other
   - DOMAIN-SUFFIX,4837.misakaf.org
   - DOMAIN-SUFFIX,dbeozg.charontv.com
