@@ -3,6 +3,8 @@
 # UPDATED: 2023-02-04 00:50
 payload:
 
+#MediaCN
+  - DOMAIN-SUFFIX,gitv.tv
 #other
   - DOMAIN-SUFFIX,4837.misakaf.org
   - DOMAIN-SUFFIX,dbeozg.charontv.com
