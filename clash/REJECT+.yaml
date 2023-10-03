@@ -1,0 +1,7 @@
+# NAME: REJECT+
+# AUTHOR: Felix
+# UPDATED: 2023-10-03 21:40
+payload:
+
+#Youtube Quic reject
+  - AND,((NETWORK,UDP),(DST-PORT,443),(GEOSITE,youtube))
