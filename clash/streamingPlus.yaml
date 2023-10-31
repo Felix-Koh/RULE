@@ -15,3 +15,5 @@ payload:
   - DOMAIN-SUFFIX,netflav.com
   - DOMAIN-SUFFIX,embedgram.com
   - DOMAIN-SUFFIX,alonestreaming.com
+#emby
+  - DOMAIN-SUFFIX,misakaf.org
