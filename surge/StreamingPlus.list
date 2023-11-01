@@ -1,6 +1,6 @@
 # NAME: streaming+
 # AUTHOR: Felix
-# UPDATED: 2022-01-28
+# UPDATED: 2023-11-1 9:52:30
 
 #plutotv
 DOMAIN-KEYWORD,pluto
@@ -15,3 +15,5 @@ DOMAIN-SUFFIX,mushroomtrack.com
 DOMAIN-SUFFIX,netflav.com
 DOMAIN-SUFFIX,embedgram.com
 DOMAIN-SUFFIX,alonestreaming.com
+#emby
+DOMAIN-SUFFIX,misakaf.org
