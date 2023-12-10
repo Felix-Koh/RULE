@@ -5,3 +5,4 @@ payload:
 
 #Youtube Quic reject
   - AND,((NETWORK,UDP),(DST-PORT,443),(GEOSITE,youtube))
+  - SRC-IP-CIDR,192.168.8.132/32
