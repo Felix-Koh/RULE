@@ -48,12 +48,15 @@ DOMAIN-SUFFIX,dgnqzb.charontv.com
 #DOMAIN-SUFFIX,emby.222921.xyz
 
 #other
+
 #DOMAIN-SUFFIX,weibo.cn
 DOMAIN-SUFFIX,6189179.xyz
 DOMAIN,felix0226.ddnsfree.com
 DOMAIN-SUFFIX,fcheng.com
 
-#Steam-CDN
+#CDN(jsdelivr&steam)
+DOMAIN,testingcf.jsdelivr.net
+DOMAIN,cdn.jsdelivr.net
 DOMAIN-SUFFIX,dl.steam.clngaa.com
 DOMAIN-SUFFIX,pphimalayanrt.com
 DOMAIN-SUFFIX,st.dl.eccdnx.com
