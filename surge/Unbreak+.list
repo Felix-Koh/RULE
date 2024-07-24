@@ -1,7 +1,10 @@
 # NAME: Unbreak+
 # AUTHOR: Felix
-# UPDATED: 2024-1-6
+# UPDATED: 2024-7-24
 # Unbreak
+
+#NTP端口
+DST-PORT,123
 
 #emby直连
 DOMAIN-SUFFIX,direct.nebula-emby.com
@@ -29,6 +32,4 @@ DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,steamserver.net
 
 #IP（小鸡）
-IP-CIDR,185.218.7.123/32,no-resolve
-IP-CIDR,38.49.46.5/32,no-resolve
 
