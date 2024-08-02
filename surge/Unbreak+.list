@@ -7,12 +7,6 @@
 DST-PORT,123
 
 #emby直连
-DOMAIN-SUFFIX,direct.nebula-emby.com
-DOMAIN-SUFFIX,4837.misakaf.org
-DOMAIN-SUFFIX,dbeozg.charontv.com
-DOMAIN-SUFFIX,jxfqc4.charontv.com
-DOMAIN-SUFFIX,dgnqzb.charontv.com
-#DOMAIN-SUFFIX,emby.222921.xyz
 
 #other
 
