@@ -5,6 +5,8 @@
 
 #NTP端口
 DST-PORT,123
+#BitComet
+SRC-PORT,19345
 
 #emby直连
 
