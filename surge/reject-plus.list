@@ -1,2 +1,3 @@
 AND,((NETWORK,UDP),(DST-PORT,443))
+#telegram解决转圈
 IP-CIDR,95.161.76.100/31,no-resolve
