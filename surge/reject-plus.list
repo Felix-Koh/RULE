@@ -1,4 +1,4 @@
 #屏蔽443端口udp
-#AND,((NETWORK,UDP),(DST-PORT,443))
+AND,((NETWORK,UDP),(DST-PORT,443),(RULE-SET,youtube_domain))
 #telegram解决转圈
 IP-CIDR,95.161.76.100/31,no-resolve
